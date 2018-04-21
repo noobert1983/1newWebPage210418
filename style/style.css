@@ -1,0 +1,23 @@
+html,body{
+    background-color: black;
+    height: 100%;
+}
+.container{
+    margin: 2% 2% 2% 2%;
+    height: 100%;
+    width: 100%;
+    background-color: darkcyan;
+}
+.header{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: auto;
+    height: 10%;
+    background-color: aqua;
+}
+.gamediv{
+    margin: 10% 10% 10% 10%;
+    height: auto;
+    width: auto;
+    background-color: aliceblue;
+}
