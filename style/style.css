@@ -1,4 +1,4 @@
-/*h1{
+h1{
     padding top: 5vh;
     height: 20vh;    
     text-align: center;    
@@ -26,6 +26,12 @@
 
 }
 
+.blackDiv{
+    height: 10vh;
+    width: 20vw;
+    background-color: black;
+
+}
 
 
 
